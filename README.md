@@ -1,16 +1,17 @@
-# sowa
-
-A application for creating best experience for student.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# WHU-Student-Helper
+A cross-platform tool with multipied fuctions designed for WHU Student to solve the problem of their study(MOOC), living and etc.  
+# NewName: Sowa  
+For the reason that we cannot use WHU directly :).  
+# How to use it.  
+This project will provide android app and ios app for a special version to solve living problems and finish simple fuctions.  
+This project will also provide windows, Linux, MacOS version to use the whole fuction.  
+# Usage  
+## MOOC  
+Designed for WHU-MOOC (the old version of MOOC Platform) platform with auto-playing video, finish the homework of the video and so on.  
+Notice:This project is not a script.  
+## Library  
+Designed for WHU-Library system, this software will provide some script fuctions.  
+## Class
+Designed for WHU-Class system, this software will provide some Class fuctions.  
+## Etc.  
+More fuctions are waiting for your using.  
