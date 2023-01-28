@@ -1,5 +1,7 @@
 # WHU-Student-Helper
 A cross-platform tool with multipied fuctions designed for WHU Student to solve the problem of their study(MOOC), living and etc.  
+# NewName: Sowa  
+For the reason that we cannot use WHU directly :).  
 # How to use it.  
 This project will provide android app and ios app for a special version to solve living problems and finish simple fuctions.  
 This project will also provide windows, Linux, MacOS version to use the whole fuction.  
